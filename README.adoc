@@ -1,5 +1,5 @@
-# Jenkins Governance
+# Jenkins Governance Meeting Archive
 
-This repository stores the Jenkins Governance Meeting notes and associated resources.
+This repository stores the Jenkins Governance Meeting from 2011 to 2020 hosted at https://meetings.jenkins-ci.org/
 
 * More about the Governance Meetings: https://www.jenkins.io/project/governance-meeting/
